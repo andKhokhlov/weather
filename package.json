@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "electron": "^27.1.2"
+  },
+  "name": "opros",
+  "version": "1.0.0",
+  "main": "src/main.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
